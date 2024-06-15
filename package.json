@@ -22,7 +22,7 @@
   "scripts": {
     "dev":"nodemon SocialMediaB/server.js",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "heroku-postbuild":"NPM_CONFIG_PRODUCTION=false && npm install --prefix socialfronted && npm run build --prefix socialfronted"
+    "heroku-postbuild":"NPM_CONFIG_PRODUCTION=false && npm install --prefix fronted && npm run build --prefix fronted"
   },
   "author": "",
   "license": "ISC",

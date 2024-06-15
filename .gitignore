@@ -1,21 +1,21 @@
 
 
-/socialfronted/node_modules
-/socialfronted/.env
+/fronted/node_modules
+/fronted/.env
 /SocialMediaB/config/config.env
 /socailfronted/.pnp
 /socailfronted/.pnp.js
 
-/socailfronted/coverage
-/socailfronted//build
+/fronted/coverage
+/fronted/build
 
-/socailfronted/.DS_Store
-/socailfronted/.env.local
-/socailfronted/.env.development.local
-/socailfronted/.env.test.local
-/socailfronted/.env.production.local
+/fronted/.DS_Store
+/fronted/.env.local
+/fronted/.env.development.local
+/fronted/.env.test.local
+/fronted/.env.production.local
 
-/socailfronted/npm-debug.log*
-/socailfronted/yarn-debug.log*
-/socailfronted/yarn-error.log*
+/fronted/npm-debug.log*
+fronted/yarn-debug.log*
+/fronted/yarn-error.log*
 /node_modules
